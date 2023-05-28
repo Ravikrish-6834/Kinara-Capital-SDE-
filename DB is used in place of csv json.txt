@@ -1,0 +1,9 @@
+1. Databases offer advantages over CSV or JSON, including the ability to create relationships between datasets, which is not possible with CSV or JSON.
+
+2. Databases are more efficient for handling large amounts of data compared to CSV or JSON files.
+
+3. Setting up a database requires more initial work than using a CSV or JSON file.
+
+4. When deciding between CSV, JSON, or a database, the size of the data being used is an important factor. JSON is generally better for big data, while CSV is better for smaller files.
+
+5. Databases are often the preferred choice when dealing with large amounts of data that require efficient data handling and relationships between datasets.
