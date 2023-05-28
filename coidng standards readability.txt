@@ -1,0 +1,26 @@
+Coding standards are crucial for creating readable and maintainable code. Readable code is code that clearly communicates its intent to the reader
+
+1. It is important to write code that is easy for other developers to read, as messy code can cause a variety of issues
+
+2.Good software development organizations want their programmers to maintain a well-defined and standard style of coding called coding standards
+
+3. A coding standard gives a uniform appearance to the codes written by different engineers, improving readability and maintainability of the code
+
+4.On the other hand, coding guidelines give some general suggestions regarding the coding style that should be followed for the betterment of understandability and readability of the code
+
+5. If coding guidelines are maintained properly, then the software code increases readability and understandability, thus reducing the complexity of the code
+
+6.To ensure readability, there are some general rules that can be followed. Formatting is king, and code should be formatted consistently
+
+7.Dead code should be removed, and the fewer comments, the better
+
+8. Names should be clear and descriptive, and creativity should not be prioritized over clarity
+
+9. Breaking up large blocks of code into smaller, more manageable pieces can also improve readability
+
+Ultimately, readable code is important because it makes refactoring, extending, and modifying parts of the system straight forward
+
+ It is the foundation of a solid codebase, where engineers are confident and quick to make changes
+
+In order to produce readable code, it is advisable to perform code reviews, write tests and use them as documentation, choose meaningful names, and follow coding standards and guidelines
+
